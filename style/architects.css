@@ -1,0 +1,15 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.header-list {
+    display: flex;
+    justify-content:space-between;
+    list-style:none;
+list-style: none
+;
+}
